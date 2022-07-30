@@ -1,0 +1,10 @@
+When you go through the dashborad created on :
+
+https://public.tableau.com/app/profile/satkriti/viz/Supermarket_16563235987990/Dashboard2?publish=yes 
+
+You can observe that regions are divided into four sections: east, west, north and south. 
+Upon clicking on any particular region the dashboard adjusts to show the filtered region selected by you.
+
+For ex: If you select region Central, you can witness that it has the least profit and there Texax is the country with lowest profits on category goods of Furniture. The graph on lower right displays the subcategories and we can note that chairs sale is dreadful in Texas.
+
+Insight: We could reduce furniture stocks from Texas, esp on Chairs followed by Binders(from office Sales category) as they have least profits.
