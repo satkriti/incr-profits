@@ -1,4 +1,4 @@
-In this repo, we are using SampleSuperstore.csv file and trying to visualise the data present. 
+In this repo, we are using SampleSuperstore.csv file and trying to visualise the dataset. 
 A dashboard is created on Tableau public and answers two questions:
     - the business problems we can derive from the given data, and 
     - identifying the weaker areas where the profits could be increased
